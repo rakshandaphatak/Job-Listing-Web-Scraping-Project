@@ -13,7 +13,7 @@ The project automates data collection and transforms raw web data into an organi
 
 ## 🔗 Project Links
 
-[Click here to view notebook]()
+[Click here to view notebook](https://colab.research.google.com/github/rakshandaphatak/Job-Listing-Web-Scraping-Project/blob/main/Web%20Scapping.ipynb#scrollTo=d315ff1a-1332-4bf6-8e04-eb0cc41ace63)
 
 ## 🎯 Objectives
 
